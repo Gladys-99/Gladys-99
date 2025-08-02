@@ -5,7 +5,7 @@ I'm a passionate tech enthusiast exploring the intersection of **Data Analytics*
 - 🔭 I’m currently exploring genomic data and bioinformatics tools
 - 🌱 I’m learning Python for bioinformatics, R, and data visualization in biology
 - 👯 I’m open to collaborations on data-driven health research projects
-- 💬 Ask me about data storytelling, data cleaning, and now — genome data analysis!
+- 💬 Ask me about data storytelling, data cleaning, and genome data analysis!
 - 📫 How to reach me: negedugladys@gmail.com
 - ⚡ Fun fact: I’m equally excited by spreadsheets and sequence alignments!
 
